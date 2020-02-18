@@ -1,7 +1,9 @@
 
-## Available Scripts
+## Search-Movies Description
 
 This project is a small project under ReactJS who allow users to find films by name
+
+##-------------------------
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
